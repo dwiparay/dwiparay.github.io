@@ -4,9 +4,9 @@
 
 ## Education
 - Bachelor of Computer Science (B.C.S) | Gunadarma University (_Sep 2014_)								       		
-- Senior High School | SMK Nasional Depok (_Sep 2014_)								       		
-- Junior High School  | SMPN 13 Depok (_Jul 2007_)	 			        		
-- Elementary School | SDN Mampang 1 Depok (_Jul 2001_)
+- Senior High School                   | SMK Nasional Depok (_Sep 2014_)								       		
+- Junior High School                   | SMPN 13 Depok (_Jul 2007_)	 			        		
+- Elementary School                    | SDN Mampang 1 Depok (_Jul 2001_)
 
 ## Work Experience
 **HR Functional Consultant (_Aug 2019 - Present_)**
