@@ -9,16 +9,22 @@
 - Elementary School                    | SDN Mampang 1 Depok (_Jul 2001_)
 
 ## Work Experience
-**HR Functional Consultant (_Aug 2019 - Present_)**
-- Configure and Setting up the Application System to support proposed model
-- Internal testing for Application System and Perform User Acceptance Test
-- Training User
-- Develop Project Documentation
-- Report Activity to Project Manager
-- Collaborate With Other Project Team Member
-- Support After Go Live
+**HR Functional Consultant (_Aug 2018 - Present_)**
+•	Perform full cycle testing in development phase with various cases to makesure the program running properly (Internal Testing)
+•	Work closely with developer team to understand project requirement for testing plan
+•	Perform android functional and regression testing
+•	Ensure that products are passed and complete before live into production phase
+•	Preparing System Integration Test and User Acceptance Test scenario, conduct SIT and UAT 
+with Key User / End User
+•	Ensure that the system is properly integrated other modules or external systems
+•	Investigate issues / bugs in the production environment, then look for 
+workarounds to keep the system running properly
+•	Report activity to project manager and collaborate with other project team member
+•	Develop Project Documentation
+•	Support After Go Live
 
-**PT Mitratel (_Mar 2013 - Jun 2013_)**
+
+**PT Mitratel (_Feb 2012 - May 2012_)**
 - Data Entry
 
 ## Projects
