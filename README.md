@@ -1,10 +1,10 @@
 # Functional Consultant
 
-#### Technical Skills: Test Cases, Manual Setting, Functionality, Software Quality, Data Analysis
+#### Technical Skills: Test Cases, Manual Testing, Documentation, Problem Solving, Test Scenario
 
 ## Education
-- Bachelor of Computer Science (B.C.S) | Gunadarma University (_Sep 2014_)								       		
-- Senior High School                   | SMK Nasional Depok (_Sep 2014_)								       		
+- Bachelor of Computer Science (B.C.S) | Gunadarma University (_Sep 2018_)								       		
+- Senior High School                   | SMK Nasional Depok (_Aug 2013_)								       		
 - Junior High School                   | SMPN 13 Depok (_Jul 2007_)	 			        		
 - Elementary School                    | SDN Mampang 1 Depok (_Jul 2001_)
 
@@ -30,3 +30,18 @@ workarounds to keep the system running properly
 ## Projects
 ### Bank OCBC
 - Team Support
+
+## Training•	Systems Analysis and Design Fundamentals at Brainmatics (In Progress)
+•	Estimated Software Development Costs course at Brainmatics (Feb 2024)
+•	Business Analysis course (2024)
+•	Wall Street English course (2023)
+•	Full Stack Web Development course at Purwadhika (Dec 2023)
+•	Visual Basic.Net Project course (Dec 2018)
+•	Oracle for Beginner course (Feb 2016)
+•	Visual Basic.Net for Beginner course (Feb 2016)
+•	Fundamental Desktop Programming Course (Jul 2015)
+•	Fundamental DBMS Course (Feb 2015)
+
+## Certification
+•	Chief Information Officer from Inixindo (2024)
+
